@@ -40,4 +40,8 @@ qtde = qtde+seqB.count("G")
 perc = (qtde/tam)*100
 print("Percentual B:", perc)
 
-print("Teste")
+print("Teste\n")
+
+print("Joao\n")
+
+print("Jose\n")
